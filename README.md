@@ -10,3 +10,5 @@
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoJSouza&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoJSouza&hide=contribs,prs)
